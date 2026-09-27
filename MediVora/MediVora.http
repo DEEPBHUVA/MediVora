@@ -1,0 +1,6 @@
+@MediVora_HostAddress = http://localhost:5197
+
+GET {{MediVora_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
