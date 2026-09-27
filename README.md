@@ -31,13 +31,13 @@ The API definition currently exposes **57 endpoints** across these modules.
 ## API Information
 
 | Property | Value |
-|---|---|
-| API Name | MediVora |
-| Version | `1.0.0` |
-| OpenAPI Version | `3.1.1` |
-| Base URL | `https://localhost:44342/` |
-| Content Type | `application/json` unless otherwise specified |
-| File Uploads | `multipart/form-data` / `application/x-www-form-urlencoded` for doctor profile image endpoints |
+|:----------------------------------|:--------------------------------------------------------------------------|
+| **API Name** | **MediVora** |
+| **Version** | `1.0.0` |
+| **OpenAPI Version** | `3.1.1` |
+| **Base URL** | `https://localhost:44342/` |
+| **Content Type** | `application/json` unless otherwise specified |
+| **File Uploads** | `multipart/form-data` / `application/x-www-form-urlencoded` for doctor profile image endpoints |
 
 ---
 
